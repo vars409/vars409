@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vars409
 - 👀 I’m interested in adventures <3
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently re-learning all the concepts
 - 💞️ I’m looking to collaborate on Still Searching
 - 📫 How to reach me you have to find out 
 - Thank's for giving your precious time <<33
